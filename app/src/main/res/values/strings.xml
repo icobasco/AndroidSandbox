@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">icobasco Sample</string>
+
+    <string name="name">Nome</string>
+    <string name="password">Password</string>
+    <string name="img_description">Descrizione immagine</string>
+    <string name="read">Leggi</string>
+
+    <string name="startAndListen">Lancia e Leggi</string>
+    <string name="start">Lancia</string>
+
+    <string name="title_activity_landing">LandingActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
